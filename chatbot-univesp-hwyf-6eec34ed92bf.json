@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-univesp-hwyf",
+  "private_key_id": "6eec34ed92bf9ae69ba5205854c485fa55ab57d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCwWoemscccbCAG\nHJxat9ssr+IDeNiXgEZ+DBV+3Ok//Ye8G/d/JaxbDYU8cFueqEdEqKJPgEhWoAlT\n5khTCIp6r3DhvkXbF6wTQaw0Vb4WFL/aurOSgrZUN+0uLsw3ndalCybA3vXf1p1b\niB3V525wunSibChEpOT4tYAb8PDvR08d45gJNB9ZRa0Rq5CNsm3EeuxjaTsJDK+1\nItZWJH5XF1L0L4r2jwQG0gKlbse5n8mYGxXMq5Q2sn79KCM0gDS0m+r/1oKG15mB\noZViQxtw+pB6yDgW6hNPWPjrKpD3yLTL81G54supOcGJoLIpCT40JIfozn7VZGcY\n5a2jZSSlAgMBAAECgf9vXhGhiKM0+miUHif0d3xHEXX+u1IMWqAppCKZpZL8gMmM\nVsef2SqpquAjoCY7tglLp92DAdVXibkE7WgUXPsWfwnKMAlCqAWteMucQTQevaZq\n0CdBXp/F5ODjSVUDH6oX5Ug+hI7BIcboXA0mCAC2hQki3n/k2ZJqKDRpcL62W5q1\n1b46RJQZeF/VXs07VSA7uwUcDAzwp5Kxrc43JYO0sqOFPk201yJTi4CauozW74JC\nf/XPEIhHJqv1sfryUoLNMQrw8t+vXxuEmg+0YUJC/fv1cKPVkKv0Gg8opvM1JULz\nGirX46Isz8RFdgsnbxHTzsOc3/gVzWU1iYU424ECgYEA3M81mrWC7Haql+GYPCQU\nbB3qiUEigxP5UrTg2osFdaD1uxnstky/1igH6/c2Hh9WH9QVls/BdD1j97GJbTcE\n+8SfQlmPJmxNgOfO/YXnFefRYU1o6mTvPLXcEvhxkUbZng42BIZOUSeDsFWwUEtS\nASFUu6qYJKmIpSiZaVL/3AUCgYEAzHWSWiB5jiWQTbaMyBxXPO2FbfGb+W3jktDh\np4HT+ziyut8yvxoCobrgh2aZAvZq5JLrSKjzFe4yGunq0GvY+vwSBM92oU1Z3SFo\novzqETAWUheWTlEPramufpuPIKOWMpDTSRCnQN72BwrvWxX3R76NaN8+7o5l0TpN\nORU1KCECgYBX4TQBXco8mEHu7r8q+GUUXpewhrbYmkN5cjmnYPsMRMJn87ptF4Cm\nGAqHFD16oZgiVMM+4XKp86DsvMDoMaSPG0MTIhfCAAqciiWsavV8l2WSpz9hQkig\nzfRHrI9udVc4+4juJhHXZLWZoZDpdACwKHbTteKVfM/Ag7cC3yCrjQKBgHlq7LGX\nDXiruAleejYwFmJ5Tz6eN5kld/rtDsSR5dgPsJwnBhTUlnGC7+mYtQ88VPhOg2kP\n4+PHI3w2I5sIIL/Tx8ORjIp3zAD04RXBiiMQ4oB3v2vc2amw1Y4cRSAF5aE7vi1q\ntVhhz8sY5FG8NrAlaga4ZL/4UmCw9cELZhjhAoGANbp80ptfSqgmjCKUneFtvlZE\nPxW570BuGUMGxq7Nn1YLKZVFXtG1s9GDuqEmf/uXURUALrOWerEj2l15p+Kz1r6E\nVtqdWA/Ma0tvVy6fjYFBM43J9LlhZTZVE2C4nTDJtKlEaNisRTCMjFzgoK3iOVQW\nJVcAnRDDrQ8IAJHxy/E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-univesp-hwyf@appspot.gserviceaccount.com",
+  "client_id": "108209268484361332404",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-univesp-hwyf%40appspot.gserviceaccount.com"
+}
